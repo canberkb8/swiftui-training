@@ -20,6 +20,7 @@
 		4DC1FE7C2C0A0463007D9B4C /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4DC1FE7E2C0A0463007D9B4C /* HundredDaySwiftUI.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = HundredDaySwiftUI.entitlements; sourceTree = "<group>"; };
 		4DC1FE802C0A0463007D9B4C /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4DC1FE892C0A060A007D9B4C /* VariablesConstantsStringsNumbers.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = VariablesConstantsStringsNumbers.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +53,7 @@
 		4DC1FE772C0A0460007D9B4C /* HundredDaySwiftUI */ = {
 			isa = PBXGroup;
 			children = (
+				4DC1FE872C0A0482007D9B4C /* 1-Day */,
 				4DC1FE782C0A0460007D9B4C /* HundredDaySwiftUIApp.swift */,
 				4DC1FE7A2C0A0460007D9B4C /* ContentView.swift */,
 				4DC1FE7C2C0A0463007D9B4C /* Assets.xcassets */,
@@ -67,6 +69,14 @@
 				4DC1FE802C0A0463007D9B4C /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		4DC1FE872C0A0482007D9B4C /* 1-Day */ = {
+			isa = PBXGroup;
+			children = (
+				4DC1FE892C0A060A007D9B4C /* VariablesConstantsStringsNumbers.playground */,
+			);
+			path = "1-Day";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
